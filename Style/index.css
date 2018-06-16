@@ -1,0 +1,17 @@
+/*titles in indexv*/
+#indexh1{color:blue;text-align: center;padding-top: 150px;}
+#indexh2{text-align:center;padding-top:150px;}
+/*list in nav*/
+#headerul li{height:50px;width:150px;list-style: none;float:left;margin:10px 50px;background-color:gray;
+padding-top: 20px;text-align: center;}
+/*link*/
+a{text-decoration: none;color:black;}
+/*titles in registration*/
+#regh1{text-align: center;color:blue;padding-top:20px;}
+/*register form in register.php*/
+form{margin-left:40%;}
+
+/*view users*/
+
+#vuh2a{top:100px;left:200px;z-index:3;position:absolute;}
+#vuh2{left:1000px;z-index:3;position:absolute;top:100px;}
